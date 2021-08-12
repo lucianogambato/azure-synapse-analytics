@@ -3,6 +3,7 @@
 CREATE DATABASE DB_PassMarathon
 
 USE DB_PassMarathon
+teste
 ------------------------------------------------------------------------------------------
 --      Part 1 - Cleanup script
 --      This part removes objects from sample database
